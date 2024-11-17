@@ -11,5 +11,5 @@ A repository of curated Splunk queries for advanced Threat Detection and Inciden
 - **And more.
 
 ## Repository Structure
-The queries are organized by platform and use case:
+The queries are organized by platform.
 
