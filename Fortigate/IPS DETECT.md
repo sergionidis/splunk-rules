@@ -1,7 +1,7 @@
 # Splunk Query for Firewall IPS Alert
 
-This query is designed to detect potential security events from firewall logs, specifically filtering out IPS events and then analyzing the data for unusual behavior. It looks for multiple occurrences of the same event to potentially indicate a larger issue.
-
+This query is designed to detect potential security events from firewall logs, specifically filtering out IPS (Intrusion Prevention System) events and analyzing the data for unusual behavior. It focuses on events that occur multiple times,
+ which could indicate a larger security issue or malicious activity.
 ### Query:
 
 ```spl
